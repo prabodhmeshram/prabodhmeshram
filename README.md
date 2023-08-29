@@ -8,7 +8,8 @@ I am a Javascript Developer, currently working with MariaDB as a Senior Develope
 
 I love to create web app that scale and delight users with exceptional user experience
 
-I write about Javascript, Frontend, Backend, and everything around it on LinkedIn with a touch of humor, do check me out [LinkedIn <img src="./svg/linkedin.svg" width="24" height="24">](https://www.linkedin.com/in/prabodhmeshram)
+I write about Javascript, Frontend, Backend, and everything around it on LinkedIn with a touch of humor.
+Do check me out [LinkedIn <img src="./svg/linkedin.svg" width="24" height="24">](https://www.linkedin.com/in/prabodhmeshram)
 
 I've experience working in below technologies
 
