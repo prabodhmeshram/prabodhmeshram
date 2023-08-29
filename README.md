@@ -14,4 +14,4 @@ Do check me out [LinkedIn <img src="./svg/linkedin.svg" width="24" height="24">]
 
 I've experience working in below technologies
 
-<img src="./svg/reactjs.svg" width="48" height="48"> <img src="./svg/vuejs.svg" width="48" height="48"> <img src="./svg/nodejs.svg" width="48" height="48"> <img src="./svg/redux.svg" width="48" height="48"> <img src="./svg/python.svg" width="48" height="48">
+<img src="./svg/js.svg" width="48" height="48"> <img src="./svg/reactjs.svg" width="48" height="48"> <img src="./svg/vuejs.svg" width="48" height="48"> <img src="./svg/nodejs.svg" width="48" height="48"> <img src="./svg/redux.svg" width="48" height="48"> <img src="./svg/python.svg" width="48" height="48"> <img src="./svg/github.svg" width="48" height="48"> <img src="./svg/docker.webp" width="48" height="48"> <img src="./svg/aws.svg" width="48" height="48"> <img src="./svg/gcp.svg" width="48" height="48">
