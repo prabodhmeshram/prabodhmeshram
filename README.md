@@ -20,15 +20,19 @@ I've experience working in below technologies, but not limited to it. As I like 
 
 I write regularly on things related to Web, Development, Utils and JS, if you like my writings, then please support my writing by sharing some ❤️ 👍 💬 
 
-[Underestimating CSS cost me an Interview 😓](https://www.linkedin.com/posts/prabodhmeshram_developerlife-frontend-css-activity-7098331246631530496-Ae1s?utm_source=share&utm_medium=member_desktop)
+Below are some artciles that can give you a glimpse of my writing passion
 
-[My Hello World React App has 308 freaking npm modules 🤯](https://www.linkedin.com/posts/prabodhmeshram_javascript-nodejs-ui-activity-7099781600602697729-SgQD)
+#### ➡️  [Underestimating CSS cost me an Interview 😓](https://www.linkedin.com/posts/prabodhmeshram_developerlife-frontend-css-activity-7098331246631530496-Ae1s?utm_source=share&utm_medium=member_desktop)
 
-[Express Your Brand Online with Emoji Domains 🎉](https://www.linkedin.com/posts/prabodhmeshram_emojis-web-domains-activity-7100359212668514305--Wdr) 😀
+#### ➡️  [My Hello World React App has 308 freaking npm modules 🤯](https://www.linkedin.com/posts/prabodhmeshram_javascript-nodejs-ui-activity-7099781600602697729-SgQD)
 
-[DSA resources for a Javascript developer, Free and Open source](https://www.linkedin.com/posts/prabodhmeshram_github-trekhlebjavascript-algorithms-activity-7100712524827832320-4-sT)
+#### ➡️  [Express Your Brand Online with Emoji Domains 🎉](https://www.linkedin.com/posts/prabodhmeshram_emojis-web-domains-activity-7100359212668514305--Wdr) 😀
 
-[Fullstack Development straight from your browser 🚀](https://www.linkedin.com/posts/prabodhmeshram_google-fullstack-frontend-activity-7101547701426663424-J7yi)
+#### ➡️  [DSA resources for a Javascript developer, Free and Open source](https://www.linkedin.com/posts/prabodhmeshram_github-trekhlebjavascript-algorithms-activity-7100712524827832320-4-sT) 📚
+
+#### ➡️  [Fullstack Development straight from your browser 🚀](https://www.linkedin.com/posts/prabodhmeshram_google-fullstack-frontend-activity-7101547701426663424-J7yi)
+
+... and many more to read and many more to come.
 
 ## Connect
 
