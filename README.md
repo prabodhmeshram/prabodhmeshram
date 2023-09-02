@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Prabodh Meshram and I am a Fullstack developer.
+I am Prabodh Meshram. I am from Pune, India.
 
 ### What I do
 
