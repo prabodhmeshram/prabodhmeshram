@@ -40,6 +40,6 @@ Do drop by on [LinkedIn <img src="./svg/linkedin.svg" width="24" height="24">](h
 
 Also, You can reach out to me : <a href="mailto:prabodh.meshram7@gmail.com" target="_blank" rel="noopener noreferrer">
     prabodh.meshram7 <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20" title="Mail me" />
-  </a> and we can have ☕/🍵/🍺 or any poison of our choice.
+  </a> and we can have ☕/🍵/🍺 or any poison of our choice. Also, I was kidding about the last part.
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=prabodhmeshram&label=Profile%20views&color=0e75b6&style=flat" alt="prabodhmeshram" /> </p>
