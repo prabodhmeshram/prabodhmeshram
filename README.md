@@ -10,10 +10,11 @@ I love to create web app that scale and delight users with exceptional user expe
 
 I write about Javascript, Frontend, Backend, and everything around it on LinkedIn with a touch of humor. 😁
 
+Also check me out on [My Site/Blog/Portfolio](https://prabodh-meshram.pages.dev/)
+
 ## My Gears of War
 
 I've experience working in below technologies, but not limited to it. As I like to venture out to new things from time to time
-Or check me out on [My Site/Blog/Portfolio](https://prabodh-meshram.pages.dev/)
 
 I've experience working in below technologies, but not limited to it. As I like to venture out to new things from time to time
 
